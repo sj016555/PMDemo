@@ -3,3 +3,4 @@ file to store different sports
 2. baseball
 3. cricket
 4. swimming
+5. soccer 
