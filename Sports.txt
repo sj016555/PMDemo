@@ -1,3 +1,4 @@
 file to store different sports
 1. tennis
 2. baseball
+3. cricket
